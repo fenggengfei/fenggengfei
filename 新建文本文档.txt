@@ -1,0 +1,7 @@
+git config --global user.name "fenggengfei"
+
+git config --global user.email "fenggengfei@gmail.com"
+
+
+
+git clone https://github.com/fenggengfei/dev.git
